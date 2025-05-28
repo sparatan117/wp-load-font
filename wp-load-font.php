@@ -4,8 +4,8 @@
  * Plugin URI: 
  * Description: Loads fonts from the plugin's my-fonts directory into WordPress
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: 
+ * Author: Austin Ross
+ * Author URI: https://rossworks.net
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: wp-load-font
